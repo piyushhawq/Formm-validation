@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Formm-validation/static/css/main.83f25a38.chunk.css",
+    "main.js": "/Formm-validation/static/js/main.cd064fed.chunk.js",
+    "main.js.map": "/Formm-validation/static/js/main.cd064fed.chunk.js.map",
+    "runtime-main.js": "/Formm-validation/static/js/runtime-main.14755968.js",
+    "runtime-main.js.map": "/Formm-validation/static/js/runtime-main.14755968.js.map",
+    "static/js/2.2ae5002a.chunk.js": "/Formm-validation/static/js/2.2ae5002a.chunk.js",
+    "static/js/2.2ae5002a.chunk.js.map": "/Formm-validation/static/js/2.2ae5002a.chunk.js.map",
+    "index.html": "/Formm-validation/index.html",
+    "static/css/main.83f25a38.chunk.css.map": "/Formm-validation/static/css/main.83f25a38.chunk.css.map",
+    "static/js/2.2ae5002a.chunk.js.LICENSE.txt": "/Formm-validation/static/js/2.2ae5002a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14755968.js",
+    "static/js/2.2ae5002a.chunk.js",
+    "static/css/main.83f25a38.chunk.css",
+    "static/js/main.cd064fed.chunk.js"
+  ]
+}
